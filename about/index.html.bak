@@ -61,17 +61,17 @@
 
 
 
-<meta name="description" content="NameCN: 张雷杰（ZhangLeijie） |  EN: Leo   I AmApache Metron User。 全国高校大数据应用创新大赛全国一等奖。 以大数据技术为中心，涉猎颇广。 Contact微博：AngleBeats雷豆瓣：黑桃杰克知乎：Silk">
+<meta name="description" content="NameCN: 伍 翀（WuChong） |  EN: Jark  |  花名: 云邪 I AmApache Flink Committer。 2009 - 2015 就读于北京理工大学。2015 年进入阿里巴巴中间件实时计算团队，JStorm 研发。2017 年加入计算平台，Blink/Flink 研发。 目前专注于实时计算，分布式技术。 Contact微博：黑桃夹克豆瓣：黑桃杰克知乎：黑桃Ja">
 <meta property="og:type" content="website">
 <meta property="og:title" content="About me">
-<meta property="og:url" content="https://huashishaojie.github.io/about/index.html">
-<meta property="og:site_name" content="Leo&#39;s Blog">
-<meta property="og:description" content="NameCN: 张雷杰（ZhangLeijie） |  EN: Leo   I AmApache Metron User。 全国高校大数据应用创新大赛全国一等奖。 以大数据技术为中心，涉猎颇广。 Contact微博：AngleBeats雷豆瓣：黑桃杰克知乎：Silk">
+<meta property="og:url" content="http://wuchong.me/about/index.html">
+<meta property="og:site_name" content="Jark&#39;s Blog">
+<meta property="og:description" content="NameCN: 伍 翀（WuChong） |  EN: Jark  |  花名: 云邪 I AmApache Flink Committer。 2009 - 2015 就读于北京理工大学。2015 年进入阿里巴巴中间件实时计算团队，JStorm 研发。2017 年加入计算平台，Blink/Flink 研发。 目前专注于实时计算，分布式技术。 Contact微博：黑桃夹克豆瓣：黑桃杰克知乎：黑桃Ja">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-05-21T14:43:53.000Z">
+<meta property="og:updated_time" content="2018-09-04T14:43:53.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="About me">
-<meta name="twitter:description" content="NameCN: 张雷杰（ZhangLeijie） |  EN: Leo   I AmApache Metron User。 全国高校大数据应用创新大赛全国一等奖。 以大数据技术为中心，涉猎颇广。 Contact微博：AngleBeats雷豆瓣：黑桃杰克知乎：Silk">
+<meta name="twitter:description" content="NameCN: 伍 翀（WuChong） |  EN: Jark  |  花名: 云邪 I AmApache Flink Committer。 2009 - 2015 就读于北京理工大学。2015 年进入阿里巴巴中间件实时计算团队，JStorm 研发。2017 年加入计算平台，Blink/Flink 研发。 目前专注于实时计算，分布式技术。 Contact微博：黑桃夹克豆瓣：黑桃杰克知乎：黑桃Ja">
 
 
 
@@ -93,7 +93,7 @@
   
 
   
-    About me | Leo's Blog
+    About me | Jark's Blog
   
 </title>
 </head>
@@ -134,7 +134,7 @@
   <div class="custom-logo-site-title">
     <a href="/" class="brand" rel="start">
       <span class="logo-line-before"><i></i></span>
-      <span class="site-title">Leo's Blog</span>
+      <span class="site-title">Jark's Blog</span>
       <span class="logo-line-after"><i></i></span>
     </a>
   </div>
@@ -246,9 +246,11 @@
   <div id="posts" class="posts-expand">
     
     
-      <h2 id="Name"><a href="#Name" class="headerlink" title="Name"></a>Name</h2><p>CN: 张雷杰（ZhangLeijie） |  EN: Leo</p>
-<h2 id="I-Am"><a href="#I-Am" class="headerlink" title="I Am"></a>I Am</h2><p>Apache Metron User。</p>全国高校大数据应用创新大赛全国一等奖<p>。<br>2017 年进入凌云网络实验室大数据团队。<br><p>以大数据技术为中心，涉猎颇广，知识面很广。</p>
-<h2 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h2><p>微博：<a href="http://weibo.com/zhangleijie1998" target="_blank" rel="noopener">AngelBeats雷</a><br>豆瓣：<a href="http://www.zhihu.com/people/zhangleijie1998" target="_blank" rel="noopener">Silk</a><br>知乎：<a href="http://www.zhihu.com/people/zhangleijie1998" target="_blank" rel="noopener">Silk</a><br>图虫：<a href="http://tuchong.com/1100252/" target="_blank" rel="noopener">Leo</a><br>GitHub：<a href="https://github.com/huashishaojie" target="_blank" rel="noopener">zhangleijie</a><br>Twitter：<a href="https://twitter.com/jarkwu" target="_blank" rel="noopener">@JarkWu</a><br>Email：imjark#gmail.com</p>
+      <h2 id="Name"><a href="#Name" class="headerlink" title="Name"></a>Name</h2><p>CN: 伍 翀（WuChong） |  EN: Jark  |  花名: 云邪</p>
+<h2 id="I-Am"><a href="#I-Am" class="headerlink" title="I Am"></a>I Am</h2><p>Apache Flink Committer。</p>
+<p>2009 - 2015 就读于北京理工大学。<br>2015 年进入阿里巴巴中间件实时计算团队，JStorm 研发。<br>2017 年加入计算平台，Blink/Flink 研发。</p>
+<p>目前专注于实时计算，分布式技术。</p>
+<h2 id="Contact"><a href="#Contact" class="headerlink" title="Contact"></a>Contact</h2><p>微博：<a href="http://weibo.com/wuchong1014" target="_blank" rel="noopener">黑桃夹克</a><br>豆瓣：<a href="http://www.douban.com/people/44584398/" target="_blank" rel="noopener">黑桃杰克</a><br>知乎：<a href="http://www.zhihu.com/people/jark" target="_blank" rel="noopener">黑桃Jark</a><br>图虫：<a href="http://tuchong.com/1100252/" target="_blank" rel="noopener">Jark</a><br>GitHub：<a href="https://github.com/wuchong" target="_blank" rel="noopener">wuchong</a><br>Twitter：<a href="https://twitter.com/jarkwu" target="_blank" rel="noopener">@JarkWu</a><br>Email：imjark#gmail.com</p>
 
     
   </div>
